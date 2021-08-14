@@ -11,6 +11,7 @@ permalink: /index.html
 💞️ I’m looking to collaborate on various Crawling projects.<br>
 📫 How to reach me? You can find me on [Jaspravim.sk](https://www.jaspravim.sk/profil/ivesblue) as IvesBlue user.<br>
 
+>What is and who is Ives Blue? You can read more [here](https://en.wikipedia.org/wiki/International_Klein_Blue)
 
 
 ```python
