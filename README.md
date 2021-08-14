@@ -9,9 +9,9 @@ permalink: /index.html
 👀 I’m interested in Pyth0n and Scrapy Crawling framework.<br>
 🌱 I’m currently learning Pyth0n.<br>
 💞️ I’m looking to collaborate on various Crawling projects.<br>
-📫 How to reach me? You can find me on [Jaspravim.sk](https://www.jaspravim.sk/profil/ivesblue) as IvesBlue user.<br>
+📫 How to reach me? You can find me on [Jaspravim.sk](https://www.jaspravim.sk/profil/ivesblue){:target="_blank" rel="noopener"} as IvesBlue user.<br>
 
->Why such a nick? It's a variation from artist's name Yves Klein. You can read more [here](https://en.wikipedia.org/wiki/International_Klein_Blue)
+>Why such a nick? It's a variation from artist's name Yves Klein. You can read more [here](https://en.wikipedia.org/wiki/International_Klein_Blue){:target="_blank" rel="noopener"}
 
 
 ```python
