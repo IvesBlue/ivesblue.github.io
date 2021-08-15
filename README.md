@@ -13,6 +13,13 @@ permalink: /index.html
 
 >Why such a pseudonym? It's a permutation from artist's name Yves Klein. You can read more [here](https://en.wikipedia.org/wiki/International_Klein_Blue){:target="_blank" rel="noopener"}
 
+```python
+color = ["y","o","u","r","c","o","l","o","r","i","s","#","0","0","2","F","A","7"]
+result = [color [10-17:]]
+result
+```
+
+or
 
 ```python
 color = ["y","o","u","r","c","o","l","o","r","i","s","#","0","0","2","F","A","7"]
