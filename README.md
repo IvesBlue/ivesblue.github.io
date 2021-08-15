@@ -16,7 +16,7 @@ permalink: /index.html
 
 ```python
 color = ["y","o","u","r","c","o","l","o","r","i","s","#","0","0","2","F","A","7"]
-result = [color [10-17:]]
+result = color [10-17:]
 result
 ```
 
