@@ -2,7 +2,11 @@
 permalink: /index.html
 ---
 
-{% raw %}{% seo %}{% endraw %}
+{% raw %}
+<meta charset="utf-8" />
+<meta name="language" content="en" />
+<meta itemprop="language" content="en" />
+{% endraw %}
 
 ## ivesblue.github.io
 
