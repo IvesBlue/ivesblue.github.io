@@ -2,14 +2,7 @@
 permalink: /index.html
 ---
 
-{% raw %}
-<meta charset="utf-8" />
-<meta name="language" content="en" />
-<meta itemprop="language" content="en" />
-{% endraw %}
-
 ## ivesblue.github.io
-
 
 👋 Hi, I’m @IvesBlue. It's pseudonym.<br>
 👀 I’m interested in Pyth0n and Scrapy cr4wl1ng fr4m3w0rk.<br>
@@ -33,3 +26,11 @@ color = ["y","o","u","r","c","o","l","o","r","i","s","#","0","0","2","F","A","7"
 result = [color[index] for index in [11,12,13,14,15,16,17]]
 result
 ```
+
+
+{% raw %}
+<meta charset="utf-8" />
+<meta name="language" content="en" />
+<meta itemprop="language" content="en" />
+<meta name="description" content="If your blog or product landing page is using GitHub Pages, it can now be optimized for SEO via the Jekyll plugin." property="description" />
+{% endraw %}
