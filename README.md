@@ -2,6 +2,8 @@
 permalink: /index.html
 ---
 
+{% raw %}{% seo %}{% endraw %}
+
 ## ivesblue.github.io
 
 
