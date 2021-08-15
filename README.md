@@ -1,11 +1,3 @@
-{% raw %}
-<meta charset="utf-8" />
-<meta name="language" content="en" />
-<meta itemprop="language" content="en" />
-<meta name="description" content="This is short & small introductionary website for night code pusher." property="description" />
-<title>Test 123</test>
-{% endraw %}
-
 ---
 permalink: /index.html
 ---
