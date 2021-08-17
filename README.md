@@ -1,7 +1,3 @@
-{% raw %}
-<meta name="google-site-verification" content="ArVWRDuMENdvRYlAhdmHJIPvmXZp0QMwozxHe5JdAGA" />
-{% endraw %}
-
 ---
 permalink: /index.html
 ---
@@ -18,6 +14,7 @@ permalink: /index.html
 >Why such a pseudonym? It's a permutation from artist's name Yves Klein. You can read more [here](https://en.wikipedia.org/wiki/International_Klein_Blue){:target="_blank" rel="noopener"}
 
 ```python
+# some pointless color in python
 color = ["y","o","u","r","c","o","l","o","r","i","s","#","0","0","2","F","A","7"]
 result = color [10-17:]
 result
@@ -26,6 +23,7 @@ result
 or
 
 ```python
+# another way how to write some pointless color in python
 color = ["y","o","u","r","c","o","l","o","r","i","s","#","0","0","2","F","A","7"]
 result = [color[index] for index in [11,12,13,14,15,16,17]]
 result
