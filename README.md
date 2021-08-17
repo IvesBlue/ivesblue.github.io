@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="ArVWRDuMENdvRYlAhdmHJIPvmXZp0QMwozxHe5JdAGA" />
+
 ---
 permalink: /index.html
 ---
