@@ -1,4 +1,6 @@
+{% raw %}
 <meta name="google-site-verification" content="ArVWRDuMENdvRYlAhdmHJIPvmXZp0QMwozxHe5JdAGA" />
+{% endraw %}
 
 ---
 permalink: /index.html
