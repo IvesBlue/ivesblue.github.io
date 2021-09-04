@@ -6,11 +6,11 @@ permalink: /index.html
 
 👋 Ahoj, volám sa @IvesBlue. Je to pseudonym.<br>
 Zaujímam sa o programovací jazyk Python<br>
-Rád sa podielam na rôznych kolaboratívych projektoch.<br>
+Rád sa podielam na rôznych kolaboratívnych projektoch.<br>
 
 📫 Ako ma nájdeš? Nájdeš ma na [Jaspravim.sk](https://www.jaspravim.sk/profil/ivesblue) ako IvesBlue užívateľa.<br>
 
->Prečo práve taký pseudonym? Je to permutácia z umeleckého mena Yves Klein a jeho patentovaného odtieňu modrej farby nazývaného aj Klein Blue. Viac sa [dočítaš tu](https://en.wikipedia.org/wiki/International_Klein_Blue).
+>Prečo práve taký pseudonym? Je to permutácia z umeleckého mena Yves Klein a jeho patentovaného odtieňa modrej farby nazývaného aj Klein Blue. Viac sa [dočítaš tu](https://en.wikipedia.org/wiki/International_Klein_Blue).
 
 ```python
 # Klein Blue color in pointless python code
