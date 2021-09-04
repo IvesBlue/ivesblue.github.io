@@ -8,7 +8,7 @@ permalink: /index.html
 Zaujímam sa o programovací jazyk Python<br>
 Rád sa podielam na rôznych kolaboratívych projektoch.<br>
 
-📫 Ako ma nájdeš? Nájdeš ma na [Jaspravim.sk](https://www.jaspravim.sk/profil/ivesblue){:target="_blank" rel="noopener"} as IvesBlue user.<br>
+📫 Ako ma nájdeš? Nájdeš ma na [Jaspravim.sk](https://www.jaspravim.sk/profil/ivesblue) ako IvesBlue užívateľa.<br>
 
 >Prečo práve taký pseudonym? Je to permutácia z umeleckého mena Yves Klein a jeho patentovaného odtieňu modrej farby nazývaného aj Klein Blue. Viac sa [dočítaš tu](https://en.wikipedia.org/wiki/International_Klein_Blue).
 
